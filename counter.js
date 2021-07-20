@@ -124,18 +124,18 @@ function displayItems3(id) {
 
 }
 
-document.addEventListener("DOMContentLoaded", function clickVisible() {
+// document.addEventListener("DOMContentLoaded", function clickVisible() {
 
-    document.getElementById('test1').innerText = 'click'
+//     document.getElementById('test1').innerText = 'click'
 
-});
+// });
 
-document.addEventListener("DOMContentLoaded", function() { displayItems() })
+// document.addEventListener("DOMContentLoaded", function() { displayItems() })
 
-document.addEventListener("DOMContentLoaded", function() { displayItems2() })
+// document.addEventListener("DOMContentLoaded", function() { displayItems2() })
 
 
-document.addEventListener("DOMContentLoaded", function() { displayItems3('test4') })
+// document.addEventListener("DOMContentLoaded", function() { displayItems3('test4') })
 
 document.addEventListener("DOMContentLoaded", function() { displayItems3('toState') })
 
